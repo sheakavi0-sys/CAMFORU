@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exclusive Offer</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+      background: linear-gradient(135deg, #4facfe, #00f2fe);
+      color: #fff;
+    }
+    .container {
+      padding: 60px 20px;
+    }
+    h1 {
+      font-size: 2.5em;
+      margin-bottom: 20px;
+    }
+    p {
+      font-size: 1.2em;
+      margin-bottom: 30px;
+    }
+    .btn {
+      display: inline-block;
+      padding: 15px 30px;
+      font-size: 1.2em;
+      background: #ff4b2b;
+      color: white;
+      border-radius: 30px;
+      text-decoration: none;
+      transition: 0.3s;
+    }
+    .btn:hover {
+      background: #ff416c;
+    }
+    footer {
+      margin-top: 50px;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🔥 Limited Time Offer! 🔥</h1>
+    <p>Get instant access to our exclusive deal. Don’t miss out!</p>
+    <a href="YOUR_CPA_LINK_HERE" class="btn">Claim Offer Now</a>
+    <footer>
+      <p>© 2025 Your Brand. All rights reserved.</p>
+    </footer>
+  </div>
+</body>
+</html>
